@@ -19,3 +19,4 @@
 ```
     git config --global -e alias.s "status --short"
 ```
+ ## debo hacer un detalle
