@@ -15,6 +15,8 @@
     git reset --hard HASH : acción destructiva
     git reflog: mirar el historial incluso los eliminados
     git rm FILE : borrar pero dejando rastro
+    git branch -d namebranch -f : borrar rama y forzarla a borrar
+    git merge branch
 ```
 ## Alias ^^
 
