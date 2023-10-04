@@ -16,7 +16,21 @@
     git reflog: mirar el historial incluso los eliminados
     git rm FILE : borrar pero dejando rastro
     git branch -d namebranch -f : borrar rama y forzarla a borrar
-    git merge branch
+    git merge branch : unión de dos 2 ramas
+    git branch -d "branchName"
+```
+## git stash
+```
+    git stash save "message"
+    git stash list
+    git stash clear : clean all stash
+
+```
+## git rebase
+```
+    git rebase master : unir los cambios a la rama, debes estar en la rama
+    
+
 ```
 ## Alias ^^
 
