@@ -1,4 +1,4 @@
-# gitAle
+# Comando de Git.
 
 ##  Configuraciones y estados
 ```
@@ -19,6 +19,7 @@
  ## Volver al último commit agregar cosas especificas
 
  ```
+<<<<<<< HEAD
     examples:
     git checkout -- . 
     git add *.html
@@ -51,3 +52,7 @@
    git rebase -i HEAD~x
    sacar del stage git checkout -- namefile
 ```
+=======
+ 
+ ```
+>>>>>>> 680a772a13cdbc92d856eab9f0e298554ef7fc23
