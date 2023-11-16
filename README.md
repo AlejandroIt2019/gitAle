@@ -1,4 +1,4 @@
-# gitAle
+# Comando de Git.
 
 ##  Comands
 
